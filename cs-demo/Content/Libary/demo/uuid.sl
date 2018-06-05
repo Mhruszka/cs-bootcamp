@@ -17,9 +17,6 @@ namespace: io.cloudslang.demo
 operation:
   name: uuid
 
-  inputs:
-    - input_1
-    - input_2
 
   python_action:
     script: |
